@@ -17,4 +17,6 @@ public class ProductsPage {
 	private WebElement element3;       //steve added
 
 
+	@FindBy(name = "searchBtn1")
+	private WebElement element4;                     //sam added ___ new branch CRM-6.0.0
 }
