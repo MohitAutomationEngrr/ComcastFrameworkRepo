@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practice.extentReportTest.SampleReportTest">
+      <class name="practice.datadriventesting.SampleUnitTestCheckProjectInBackEnd">
         <methods>
-          <include name="configBS"/>
-          <include name="createContactTest"/>
-          <include name="configAS"/>
+          <include name="projectCheckTest"/>
         </methods>
-      </class> <!-- practice.extentReportTest.SampleReportTest -->
+      </class> <!-- practice.datadriventesting.SampleUnitTestCheckProjectInBackEnd -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
