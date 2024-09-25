@@ -20,7 +20,7 @@
 	<profiles>
 		
 		<profile>
-			<id>FRT</id>
+			<id>RT</id>
 			<!-- Below sure-fire plugin is used to execute testng.xml using Maven CMD line ~ Mohit Kumar-->
 			<build>
 				<plugins>
